@@ -90,7 +90,7 @@ function createWindow () {
     //mainWindow.loadFile('index.html');
     
     // Load a remote URL
-    mainWindow.loadURL("http://178.128.60.59:81/");
+    mainWindow.loadURL("http://178.128.60.59/");
 
     // Open the DevTools.
     //mainWindow.webContents.openDevTools()
