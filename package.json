@@ -2,7 +2,7 @@
   "name": "SOMS-Office",
   "version": "1.0.0",
   "main": "main.js",
-  "description": "Desktop App for Smart Dolil Management System",
+  "description": "Smart Office Management System",
   "author": "Registration Department",
   "scripts": {
     "start": "electron .",
