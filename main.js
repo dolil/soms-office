@@ -41,7 +41,7 @@ template.unshift(
         label: 'View',
         submenu: [
             {role: 'reload'},
-            //{role: 'toggledevtools'},
+            {role: 'toggledevtools'},
             {type: 'separator'},
             {role: 'resetzoom'},
             //{role: 'zoomin'},
